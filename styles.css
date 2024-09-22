@@ -1,0 +1,52 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background-color: #f4f4f4;
+  padding: 20px;
+  margin: 0;
+}
+
+h1 {
+  color: #333;
+  text-align: center;
+}
+
+.intro {
+  color: #666;
+  font-style: italic;
+}
+
+#main-content {
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+}
+
+.websites {
+  color: #0066cc;
+}
+
+h2 {
+  color: #0066cc;
+}
+
+ul {
+  list-style-type: square;
+}
+
+/* Serif and sans-serif */
+/* font stack */
+/* 
+ colors - names, hexcode, hsl, rgba
+*/
+
+
+/* 
+
+Box model
+
+margin
+border
+padding - space between border and text content
+
+*/
